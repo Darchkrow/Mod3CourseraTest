@@ -1,0 +1,30 @@
+{
+  "name": "mod3courseratest",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite", 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darchkrow/Mod3CourseraTest.git"
+  },
+  "keywords": [
+    "Test",
+    "Site",
+    "Bootstrap"
+  ],
+  "author": "Leonardo de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darchkrow/Mod3CourseraTest/issues"
+  },
+  "homepage": "https://github.com/Darchkrow/Mod3CourseraTest#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
